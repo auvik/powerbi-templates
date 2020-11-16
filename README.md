@@ -1,2 +1,2 @@
 # powerbi-templates
-Auvik's Power BI templates for reportin
+Auvik's Power BI templates for reporting
